@@ -1,4 +1,4 @@
-# Open-Lab-07.01
+# Open-Lab-07.01 (30 XP)
 You will learn to work with classes, properties, methods, DateTime and TimeSpan
 
 1. Clone this repository to your GitHub account.
